@@ -1,0 +1,19 @@
+name = "timg_jll"
+uuid = "6c2e2082-7334-5db5-9567-78a40bc96671"
+version = "1.4.2+0"
+
+[deps]
+FFMPEG_jll = "b22a6f82-2f65-5046-a5b2-351ab43fb4e5"
+JpegTurbo_jll = "aacddb02-875f-59d6-b918-886e6ef4fbf8"
+OpenSlide_jll = "becf559c-afb9-529d-9a2d-92566e0304eb"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+libexif_jll = "cdeeb48b-bcdf-5b3f-98c4-7a29487f695f"
+libgraphicsmagic_jll = "3e975b7b-ab84-5bf4-b4b6-586754a53ef6"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.0"

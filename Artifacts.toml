@@ -1,9 +1,9 @@
 [[timg]]
 arch = "x86_64"
-git-tree-sha1 = "30211279ea673ccb6823c16de954bc03540cc2fe"
+git-tree-sha1 = "46b9ed49369a7ff19252ff6951ab8e15e3851ec8"
 libc = "glibc"
 os = "linux"
 
     [[timg.download]]
-    sha256 = "f41e9f317323cfe74554c96c4b84b4e9ad7a9526f6b2979a660b053d6ff48c3b"
+    sha256 = "7c36cdb276e8bb0fca9ecc76283a3a7f4ad3399ced3ad24e9b1253e9c9782f36"
     url = "https://github.com/Moelf/timg_jll.jl/releases/download/timg-v1.4.2+0/timg.v1.4.2.x86_64-linux-gnu.tar.gz"
